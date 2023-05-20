@@ -36,3 +36,10 @@ h1 {
  
   /* border: 1px solid red; */
 }
+
+.dev_Persona {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  color: rgb(49, 49, 49);
+  font-family: Lato, sans-serif;
+}
